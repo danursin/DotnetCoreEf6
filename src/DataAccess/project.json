@@ -1,0 +1,16 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "DataAccess Class Library",
+  "authors": [ "Ursin" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "dnx451": { }
+  },
+  "dependencies": {
+    "EntityFramework": "6.1.3",
+    "Model": "1.0.0-*",
+    "Microsoft.Extensions.Configuration.Json": "1.0.0-rc1-final"
+  }
+}

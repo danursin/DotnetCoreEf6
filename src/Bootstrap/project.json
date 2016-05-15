@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+  "description": "Bootstrap Class Library",
+  "authors": [ "Ursin" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "dnx451": { }
+  },
+  "dependencies": {
+    "DataAccess": "1.0.0-*",
+    "Domain": "1.0.0-*",
+    "Microsoft.Extensions.DependencyInjection.Abstractions": "1.0.0-rc1-final"
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Domain Class Library",
+  "authors": [ "Ursin" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "dnx451": { }
+  },
+  "dependencies": {
+    "DataAccess": "1.0.0-*",
+    "Model": "1.0.0-*"
+  }
+}
